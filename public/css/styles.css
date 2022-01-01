@@ -1,0 +1,38 @@
+
+body{
+    background-image: url('../img/fondo.png');
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+}
+
+.mainh-100{
+    margin-top:20vh;
+}
+
+.padre {
+    display: flex;
+    justify-content: center;
+}
+
+.card-fondo{
+    background-color: rgba(6,58,94, 0.3) !important ;
+}
+
+h1{
+    color: seashell;
+    text-align: center;
+}
+th{
+    color: seashell;
+}
+td{
+    color: seashell;
+}
+h2{
+    color: seashell;
+}
+label{
+    color: seashell;
+}
